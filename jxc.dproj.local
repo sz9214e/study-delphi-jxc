@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2012/07/21 10:17:00.946.pas,D:\My Documents\RAD Studio\Projects\Unit3.pas=D:\进销存程式\LoginDlg.pas</Transaction>
+    <Transaction>2012/07/21 10:17:00.946.dfm,D:\My Documents\RAD Studio\Projects\Unit3.dfm=D:\进销存程式\LoginDlg.dfm</Transaction>
+    <Transaction>2012/07/21 10:17:04.893.dproj,D:\My Documents\RAD Studio\Projects\Project2.dproj=D:\进销存程式\jxc.dproj</Transaction>
+    <Transaction>2012/07/21 10:24:26.970.pas,D:\进销存程式\Unit1.pas=D:\进销存程式\MainFrm.pas</Transaction>
+    <Transaction>2012/07/21 10:24:26.970.dfm,D:\进销存程式\Unit1.dfm=D:\进销存程式\MainFrm.dfm</Transaction>
+    <Transaction>2012/07/21 10:33:50.722.pas,D:\进销存程式\Unit1.pas=D:\进销存程式\PartFrm.pas</Transaction>
+    <Transaction>2012/07/21 10:33:50.722.dfm,D:\进销存程式\Unit1.dfm=D:\进销存程式\PartFrm.dfm</Transaction>
+    <Transaction>2012/07/21 10:52:20.432.pas,D:\进销存程式\Unit1.pas=D:\进销存程式\StockInFrm.pas</Transaction>
+    <Transaction>2012/07/21 10:52:20.432.dfm,D:\进销存程式\Unit1.dfm=D:\进销存程式\StockInFrm.dfm</Transaction>
+    <Transaction>2012/07/21 11:44:20.517.pas,D:\进销存程式\StockInFrm.pas=D:\进销存程式\StockOutFrm.pas</Transaction>
+    <Transaction>2012/07/21 11:44:20.517.dfm,D:\进销存程式\StockInFrm.dfm=D:\进销存程式\StockOutFrm.dfm</Transaction>
+    <Transaction>2012/07/21 11:48:42.509.pas,D:\进销存程式\PartFrm.pas=D:\进销存程式\StockSch.pas</Transaction>
+    <Transaction>2012/07/21 11:48:42.509.dfm,D:\进销存程式\PartFrm.dfm=D:\进销存程式\StockSch.dfm</Transaction>
+    <Transaction>2012/07/21 11:55:27.795.pas,D:\进销存程式\StockSch.pas=D:\进销存程式\StockDetailSch.pas</Transaction>
+    <Transaction>2012/07/21 11:55:27.795.dfm,D:\进销存程式\StockSch.dfm=D:\进销存程式\StockDetailSch.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
